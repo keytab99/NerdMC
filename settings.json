@@ -1,20 +1,20 @@
 {
-  "name": "AFK Bot",
+  "name": "NerdMC",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "NerdMC",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "nerdmc.aternos.me",
+    "port": 48246,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 1022,
+    "y": 15,
+    "z": 505
   },
   "utils": {
     "auto-auth": {
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
+        "NerdMC on Top",
+        "Zeryon Is The Boss",
+        "I like to play NerdMC!"
       ]
     },
     "chat-log": true,
